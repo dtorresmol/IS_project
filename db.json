@@ -1,5 +1,5 @@
 {
-  "Categoria": [
+  "categoria": [
     {
       "id": 1,
       "title": "Medicamentos"
@@ -13,7 +13,7 @@
       "title": "Desinfetantes"
     }
   ],
-  "Productos": [
+  "productos": [
     {
       "id": 1,
       "descripcion": "Paracetamol",
