@@ -1,0 +1,31 @@
+{
+  "Categoria": [
+    {
+      "id": 1,
+      "title": "Medicamentos"
+    },
+    {
+      "id": 2,
+      "title": "Productos de Limpieza"
+    },
+    {
+      "id": 3,
+      "title": "Desinfetantes"
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "descripcion": "Paracetamol",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "descripcion": "Cloro",
+      "catId": 2
+    }
+  ],
+  "profile": {
+    "name": "Dtorres"
+  }
+}
